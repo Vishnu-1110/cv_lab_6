@@ -66,7 +66,8 @@ The program displays the original image and all 8 bit planes.
 
 ### Output Image
 
-![Bit Plane Slicing Output](output.png)
+<img width="1189" height="878" alt="image" src="https://github.com/user-attachments/assets/9175b32c-6be1-4720-a951-59e5f56f0f64" />
+
 
 ## Result
 
